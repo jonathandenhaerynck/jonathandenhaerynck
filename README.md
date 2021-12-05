@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @jonathandenhaerynck
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jonathandenhaerynck/jonathandenhaerynck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---import tkinter as tk
+import tkinter as tk
 from tkinter import ttk
 from tkinter.messagebox import showinfo
 
@@ -58,4 +49,3 @@ login_button.pack(fill='x', expand=True, pady=10)
 
 
 root.mainloop()
-
